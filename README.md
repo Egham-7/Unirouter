@@ -34,7 +34,6 @@ API_KEYS = {
 
 ## Results
 
-- **96x cost range**: $0.065 - $6.25 per request
 - **Universal**: Works with any new LLM by computing its error profile
 - **Efficient**: No retraining required for new models
 
