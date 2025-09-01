@@ -36,6 +36,9 @@ API_KEYS = {
 
 - **Universal**: Works with any new LLM by computing its error profile
 - **Efficient**: No retraining required for new models
+- **Evaluation**:
+- <img width="894" height="568" alt="image" src="https://github.com/user-attachments/assets/3de1a086-4104-4738-8c69-c946d0141aca" />
+
 
 ---
 
